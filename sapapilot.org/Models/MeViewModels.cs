@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace sapapilot.org.Models
+namespace SAPA.Models
 {
     // Models returned by MeController actions.
     public class GetViewModel

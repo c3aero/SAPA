@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using sapapilot.org.Areas.HelpPage.ModelDescriptions;
+using SAPA.Areas.HelpPage.ModelDescriptions;
 
-namespace sapapilot.org.Areas.HelpPage.Models
+namespace SAPA.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

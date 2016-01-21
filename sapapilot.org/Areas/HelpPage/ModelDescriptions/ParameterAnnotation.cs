@@ -1,6 +1,6 @@
 using System;
 
-namespace sapapilot.org.Areas.HelpPage.ModelDescriptions
+namespace SAPA.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterAnnotation
     {

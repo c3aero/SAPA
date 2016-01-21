@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
 
-namespace sapapilot.org.Controllers
+namespace SAPA.Controllers
 {
     [Authorize]
     public class HomeController : Controller

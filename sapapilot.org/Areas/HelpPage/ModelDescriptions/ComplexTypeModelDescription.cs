@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace sapapilot.org.Areas.HelpPage.ModelDescriptions
+namespace SAPA.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

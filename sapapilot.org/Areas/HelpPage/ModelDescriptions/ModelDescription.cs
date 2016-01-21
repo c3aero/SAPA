@@ -1,6 +1,6 @@
 using System;
 
-namespace sapapilot.org.Areas.HelpPage.ModelDescriptions
+namespace SAPA.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

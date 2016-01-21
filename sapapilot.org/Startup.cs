@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(sapapilot.org.Startup))]
+[assembly: OwinStartup(typeof(SAPA.Startup))]
 
-namespace sapapilot.org
+namespace SAPA
 {
     public partial class Startup
     {

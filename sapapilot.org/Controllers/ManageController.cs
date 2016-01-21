@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using sapapilot.org.Models;
+using SAPA.Models;
 
-namespace sapapilot.org.Controllers
+namespace SAPA.Controllers
 {
     [Authorize]
     public class ManageController : Controller

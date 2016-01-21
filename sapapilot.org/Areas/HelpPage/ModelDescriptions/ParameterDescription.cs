@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace sapapilot.org.Areas.HelpPage.ModelDescriptions
+namespace SAPA.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterDescription
     {

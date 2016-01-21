@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace sapapilot.org.Areas.HelpPage.ModelDescriptions
+namespace SAPA.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

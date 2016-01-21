@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
-using sapapilot.org.Models;
+using SAPA.Models;
 
-namespace sapapilot.org.Controllers
+namespace SAPA.Controllers
 {
     [Authorize]
     public class MeController : ApiController

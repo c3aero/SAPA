@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.Owin.Security.OAuth;
 
-namespace sapapilot.org.Providers
+namespace SAPA.Providers
 {
     public class ApplicationOAuthProvider : OAuthAuthorizationServerProvider
     {

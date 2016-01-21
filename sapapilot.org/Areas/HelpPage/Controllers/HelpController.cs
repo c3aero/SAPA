@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using sapapilot.org.Areas.HelpPage.ModelDescriptions;
-using sapapilot.org.Areas.HelpPage.Models;
+using SAPA.Areas.HelpPage.ModelDescriptions;
+using SAPA.Areas.HelpPage.Models;
 
-namespace sapapilot.org.Areas.HelpPage.Controllers
+namespace SAPA.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using sapapilot.org.Areas.HelpPage.ModelDescriptions;
-using sapapilot.org.Areas.HelpPage.Models;
+using SAPA.Areas.HelpPage.ModelDescriptions;
+using SAPA.Areas.HelpPage.Models;
 
-namespace sapapilot.org.Areas.HelpPage
+namespace SAPA.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

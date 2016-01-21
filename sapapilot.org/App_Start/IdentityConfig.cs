@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using sapapilot.org.Models;
+using SAPA.Models;
 
-namespace sapapilot.org
+namespace SAPA
 {
     public class EmailService : IIdentityMessageService
     {
