@@ -41,6 +41,10 @@ namespace SAPA
             bundles.Add(new StyleBundle("~/Content/css").Include(
                  "~/Content/bootstrap.css",
                  "~/Content/Site.css"));
+
+            // Add AngularJS - JMS 1/21/2016
+            bundles.Add(new ScriptBundle("~/bundles/angular").Include(
+                "~/Scripts/angular.min.js"));
         }
     }
 }
