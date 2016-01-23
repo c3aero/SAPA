@@ -44,7 +44,10 @@ namespace SAPA.Controllers
         public GetViewModel Get()
         {
             var user = UserManager.FindById(User.Identity.GetUserId());
-            return new GetViewModel() { Hometown = user.Hometown };
+            return new GetViewModel() {
+                Hometown = user.Hometown,
+                FirstName = user.FirstName
+            };
         }
     }
 }

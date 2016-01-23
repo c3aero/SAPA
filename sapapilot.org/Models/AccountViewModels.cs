@@ -87,6 +87,12 @@ namespace SAPA.Models
 
         [Display(Name = "Hometown")]
         public string Hometown { get; set; }
+
+        [Display(Name = "First Name")]
+        public string FirstName { get; set; }
+
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; }
     }
 
     public class ResetPasswordViewModel

@@ -2,6 +2,7 @@
     var self = this;
 
     self.myHometown = ko.observable("");
+    self.myFirstName = ko.observable("");
 
     Sammy(function () {
         this.get('#home', function () {
@@ -14,7 +15,8 @@
                     'Authorization': 'Bearer ' + app.dataModel.getAccessToken()
                 },
                 success: function (data) {
-                    self.myHometown('Your Hometown is : ' + data.hometown);
+                    self.myHometown('Your Hometown is : ' + data.hometown)
+                    self.myFirstName('Your First Name is : ' + data.firstName)
                 }
             });
         });
